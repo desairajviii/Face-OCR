@@ -1,0 +1,10 @@
+torch
+torchvision
+numpy>=2.0
+pillow>=10.4
+facenet-pytorch
+opencv-python
+pandas
+scikit-learn
+scipy
+matplotlib
